@@ -29,7 +29,7 @@
 				onclick="window.location.href='showFormForAdd'"
 				class="add-button"/>
 			
-			<!--  add a search box new change -->
+			<!--  add a search box new change again to saved -->
             <form:form action="search" method="GET">
                 Search customer: <input type="text" name="theSearchName" />
                 
